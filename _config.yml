@@ -14,19 +14,20 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: IS457 Data Storytelling (BCU/BCG)
-email: jnaiman@illinois.edu
+email: tzacks2@illinois.edu
 description: >- # this means to ignore newlines until "baseurl:"
   This is the course website for Data Storytelling Fall 2025
-baseurl: "/is457_bcubcg_fall2025" # the subpath of your site, e.g. /blog
+baseurl: "/is457_bcg_spring2026" # the subpath of your site, e.g. /blog
 url: "https://uiuc-ischool-datastories.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  jnaiman
+github_username:  talizacks
 branch: main
 port: 4009
 
 # Build settings
 markdown: kramdown
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
-theme: jekyll-theme-dinky
+# theme: jekyll-theme-dinky
+remote_theme: pages-themes/dinky@v0.2.0
 plugins:
 
 # Exclude from processing.
