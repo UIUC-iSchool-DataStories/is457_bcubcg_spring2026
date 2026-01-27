@@ -26,8 +26,8 @@ port: 4009
 # Build settings
 markdown: kramdown
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
-# theme: jekyll-theme-dinky
-remote_theme: pages-themes/dinky@v0.2.0
+theme: jekyll-theme-dinky
+#remote_theme: pages-themes/dinky@v0.2.0
 plugins:
 
 # Exclude from processing.
