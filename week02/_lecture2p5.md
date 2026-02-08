@@ -30,6 +30,7 @@ Our data sources.  We will explore:
  * data.gov
  * data.illinois.gov
  * data.humdata.org
+ * https://data.cityofchicago.org/
 
 
 notes:
@@ -103,12 +104,13 @@ this can be very useful data for this class and your final presentations
 
 # Data Sources
 
-We will will divide into groups and explore:
+We will divide into groups and explore:
 
  * data.world
  * data.gov
  * data.illinois.gov
  * data.humdata.org
+ * https://data.cityofchicago.org/
 
 Prepare an introduction to between one and three datasets you identify that you
 are interested in exploring.  Think about these things:
@@ -135,12 +137,13 @@ We'll be pulling from these (and other datasets) for your first minor project ne
 
 # Data Sources
 
-We will will divide into groups and explore:
+We will divide into groups and explore:
 
  * data.world
  * data.gov
  * data.illinois.gov
  * data.humdata.org
+ * https://data.cityofchicago.org/
 
 Prepare an introduction to between one and three datasets you identify that you
 are interested in exploring.  Think about these things:
